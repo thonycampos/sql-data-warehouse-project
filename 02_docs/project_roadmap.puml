@@ -1,0 +1,21 @@
+@startmindmap
+* SQL Data Warehouse Project
+** Analisis de Requerimientos
+** Diseña de la Arquitectura de Datos
+** Inicializacion del Proyecto
+*** Create detalle de tareas del proyecto
+*** Definir concención de nombres del Proyecto
+*** Crear un Repositorio de Git y preparar estructura
+*** Crear Base de Datos y Esquemas
+** Contruir Capa Bronze
+*** Analizar los sistemas origenes
+*** Codificar: Data Ingestion (Ingesta de datos)
+*** Validar: Integridad de datos y chequeos de Esquemas
+*** Documentación: Dibijar flujo de datos
+*** Commit del repositorio
+** Contruir Capa Silver
+
+** Contruir Capa Gold
+
+
+@endmindmap
